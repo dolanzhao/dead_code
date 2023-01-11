@@ -1,0 +1,4 @@
+dynamorio/
+dr_build/
+build/
+.vscode/
