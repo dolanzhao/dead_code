@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/ubuntu/dead_code/build",
+  "command": "/usr/bin/clang++    -g   -std=gnu++11 -o CMakeFiles/deadcode.dir/src/main.cpp.o -c /home/ubuntu/dead_code/src/main.cpp",
+  "file": "/home/ubuntu/dead_code/src/main.cpp"
+},
+{
+  "directory": "/home/ubuntu/dead_code/build",
+  "command": "/usr/bin/clang++    -g   -std=gnu++11 -o CMakeFiles/deadcode.dir/src/directory_iterator.cpp.o -c /home/ubuntu/dead_code/src/directory_iterator.cpp",
+  "file": "/home/ubuntu/dead_code/src/directory_iterator.cpp"
+},
+{
+  "directory": "/home/ubuntu/dead_code/build",
+  "command": "/usr/bin/clang++    -g   -std=gnu++11 -o CMakeFiles/deadcode.dir/src/file_reader.cpp.o -c /home/ubuntu/dead_code/src/file_reader.cpp",
+  "file": "/home/ubuntu/dead_code/src/file_reader.cpp"
+},
+{
+  "directory": "/home/ubuntu/dead_code/build",
+  "command": "/usr/bin/clang++    -g   -std=gnu++11 -o CMakeFiles/deadcode.dir/src/reader.cpp.o -c /home/ubuntu/dead_code/src/reader.cpp",
+  "file": "/home/ubuntu/dead_code/src/reader.cpp"
+},
+{
+  "directory": "/home/ubuntu/dead_code/build",
+  "command": "/usr/bin/clang++    -g   -std=gnu++11 -o CMakeFiles/deadcode.dir/src/record_file_reader.cpp.o -c /home/ubuntu/dead_code/src/record_file_reader.cpp",
+  "file": "/home/ubuntu/dead_code/src/record_file_reader.cpp"
+},
+{
+  "directory": "/home/ubuntu/dead_code/build",
+  "command": "/usr/bin/clang++    -g   -std=gnu++11 -o CMakeFiles/deadcode.dir/src/trace_entry.cpp.o -c /home/ubuntu/dead_code/src/trace_entry.cpp",
+  "file": "/home/ubuntu/dead_code/src/trace_entry.cpp"
+},
+{
+  "directory": "/home/ubuntu/dead_code/build",
+  "command": "/usr/bin/clang++    -g   -std=gnu++11 -o CMakeFiles/deadcode.dir/src/analyzer.cpp.o -c /home/ubuntu/dead_code/src/analyzer.cpp",
+  "file": "/home/ubuntu/dead_code/src/analyzer.cpp"
+},
+{
+  "directory": "/home/ubuntu/dead_code/build",
+  "command": "/usr/bin/clang++    -g   -std=gnu++11 -o CMakeFiles/deadcode.dir/src/analyzer_runner.cpp.o -c /home/ubuntu/dead_code/src/analyzer_runner.cpp",
+  "file": "/home/ubuntu/dead_code/src/analyzer_runner.cpp"
+},
+{
+  "directory": "/home/ubuntu/dead_code/build",
+  "command": "/usr/bin/clang++    -g   -std=gnu++11 -o CMakeFiles/deadcode.dir/src/dead_code_analysis.cpp.o -c /home/ubuntu/dead_code/src/dead_code_analysis.cpp",
+  "file": "/home/ubuntu/dead_code/src/dead_code_analysis.cpp"
+}
+]

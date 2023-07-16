@@ -1,0 +1,3 @@
+/home/ubuntu/programe/dead_code2/cmake-build-debug/CMakeFiles/deadcode.dir
+/home/ubuntu/programe/dead_code2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ubuntu/programe/dead_code2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

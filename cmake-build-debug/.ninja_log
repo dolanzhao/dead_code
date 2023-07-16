@@ -1,0 +1,27 @@
+# ninja log v5
+1378	1804	1674866709530479794	deadcode	330bccad27a2542a
+1	130	1675046812625234966	build.ninja	3628c2a4fb8c220a
+1	1887	1674866656086326060	CMakeFiles/deadcode.dir/src/trace/cpps/analyzer_runner.cpp.o	1a52e3bffbb63355
+1228	2898	1674635984295986910	CMakeFiles/deadcode.dir/src/trace/cpps/reader.cpp.o	14b03bf7f9e0e692
+1118	2345	6963383981460374	deadcode.exe	6f3c0a76f4b17c55
+1487	6234	1674635987631996920	CMakeFiles/deadcode.dir/src/trace/cpps/analyzer.cpp.o	9c1e4b13ac1766c7
+2898	4225	1674635985623990895	CMakeFiles/deadcode.dir/src/trace/headers/record_file_reader.cpp.o	7846506fabe4f5e1
+0	2480	1674635983875985650	CMakeFiles/deadcode.dir/src/trace/cpps/file_reader.cpp.o	5bd12315eac499be
+1	1378	1674866709106478575	CMakeFiles/deadcode.dir/src/trace/cpps/dead_code_analysis.cpp.o	32f0e45b0d21d6b8
+2	1227	1674635982623981893	CMakeFiles/deadcode.dir/src/trace/cpps/directory_iterator.cpp.o	2f2aa7acaada5343
+0	1487	1674635982887982686	CMakeFiles/deadcode.dir/src/trace/cpps/main.cpp.o	655fbea1f1662b7a
+2481	3191	1674635984579987763	CMakeFiles/deadcode.dir/src/trace/cpps/trace_entry.cpp.o	6647a47cf4bbcc99
+10	1352	1675046816009245328	CMakeFiles/deadcode.dir/src/trace/cpps/directory_iterator.cpp.o	2f2aa7acaada5343
+1	1834	1675046816489246798	CMakeFiles/deadcode.dir/src/trace/cpps/main.cpp.o	655fbea1f1662b7a
+2	2549	1675046817201248978	CMakeFiles/deadcode.dir/src/trace/cpps/file_reader.cpp.o	5bd12315eac499be
+1352	2990	1675046817645250338	CMakeFiles/deadcode.dir/src/trace/cpps/reader.cpp.o	14b03bf7f9e0e692
+2549	3191	1675046817845250950	CMakeFiles/deadcode.dir/src/trace/cpps/trace_entry.cpp.o	6647a47cf4bbcc99
+2991	3911	1675046818565253155	CMakeFiles/deadcode.dir/src/trace/headers/record_file_reader.cpp.o	7846506fabe4f5e1
+3192	4285	1675046818937254294	CMakeFiles/deadcode.dir/src/trace/cpps/analyzer_runner.cpp.o	1a52e3bffbb63355
+3912	5296	1675046819949257393	CMakeFiles/deadcode.dir/src/trace/cpps/dead_code_analysis.cpp.o	32f0e45b0d21d6b8
+1835	5717	1675046820369258679	CMakeFiles/deadcode.dir/src/trace/cpps/analyzer.cpp.o	9c1e4b13ac1766c7
+5717	6084	1675046820737259806	deadcode	330bccad27a2542a
+6	2203	1675247705211595978	CMakeFiles/deadcode.dir/src/trace/cpps/dead_code_analysis.cpp.o	32f0e45b0d21d6b8
+2204	3270	1675247706271599285	deadcode	330bccad27a2542a
+2	2746	1675768103158596745	CMakeFiles/deadcode.dir/src/trace/cpps/dead_code_analysis.cpp.o	32f0e45b0d21d6b8
+2747	3430	1675768103838592848	deadcode	330bccad27a2542a
